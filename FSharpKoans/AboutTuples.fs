@@ -6,7 +6,7 @@ open NUnit.Framework
     NOT brackets.  In F#, brackets are used for precedence and ordering, not to form tuples.
 
     The number of elements in a tuple is called its *arity*.  We can call a tuple with 2
-    items a 2-tuple, a tuple with 5 elements is a 5-tuple, and so on.
+    items a 2-tuple, a tuple with 5 elements is a 5-tuple, and so on...
 *)
 
 module ``06: Tuples`` = 

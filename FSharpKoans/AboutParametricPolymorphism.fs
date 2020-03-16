@@ -36,7 +36,7 @@ open NUnit.Framework
     The ability to look at the *shape* of data, and ignore unnecessarily-specific
     types, is called "parametric polymorphism".  The non-specific (or "generic")
     types are given as 'a, 'b, 'c, and so on.  We sometimes say that types which are
-    parametrically polymorphic are "generic types".
+    parametrically polymorphic are "generic types"...
 
     We may sometimes want to make our more structured types, like records
     or discriminated unions, generic.

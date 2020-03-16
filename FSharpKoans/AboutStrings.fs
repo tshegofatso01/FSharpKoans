@@ -68,7 +68,7 @@ module ``11: String manipulation`` =
 
     // specify a precision using %.Nf, where N is an integer
     // that specifies the number of digits after the decimal point.
-    // The default precision is about 6, as near as I can tell.
+    // The default precision is about 6, as near as I can tell...
     [<Test>]
     let ``11 String formatting: %f format specifier`` () =
         let result = sprintf "Multiply by %.6f, then triple" 2.26

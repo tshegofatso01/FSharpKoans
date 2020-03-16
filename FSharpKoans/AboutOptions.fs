@@ -29,7 +29,7 @@ module ``09: Exploring types, options, and results`` =
          - Avoid using exceptions for no reason
          - Express the domain that we're modelling more accurately
          - Avoid returning null or "special" values which could be
-            misinterpreted later on and/or cause crashes.
+            misinterpreted later on and/or cause crashes...
    *)
     let getSurname (x:string) =
         match x.Trim().LastIndexOf ' ' with

@@ -214,7 +214,7 @@ State=9, Element=4, NextState=9+4=13
 State=13, Element=2, NextState=13+2=15
 State=15, Element=7, NextState=15+7=22
 State=22, Element=5, NextState=22+5=27
-... and then we run out of elements.
+... and then we run out of elements...
 
 The very last state that was generated was 27.  So that's what we return.
 

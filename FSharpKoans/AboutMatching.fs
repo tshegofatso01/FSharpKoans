@@ -7,7 +7,7 @@ to conditionally execute code.  The first pattern (going from top to bottom) tha
 matches causes the associated code to be executed.  All non-matching patterns,
 and any patterns after the first matching pattern, are ignored.  If no pattern
 matches, then you get a MatchFailureException at runtime and you turn into a
-Sad Panda.
+Sad Panda...
 *)
 
 module ``04: Match expressions`` = 

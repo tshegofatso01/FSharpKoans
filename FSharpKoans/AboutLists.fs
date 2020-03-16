@@ -3,7 +3,7 @@
 open NUnit.Framework
 
 (*
-Lists are immutable, ordered, finite sequences of a single type.
+Lists are immutable, ordered, finite sequences of a single type...
 *)
 
 module ``10: I Have Here In My Hand A List`` = 

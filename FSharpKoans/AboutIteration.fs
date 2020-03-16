@@ -3,7 +3,7 @@ open NUnit.Framework
 
 module ``05: To iterate is human; to recurse, divine`` =
     (*
-        The `rec` keyword exposes the function identifier for use inside the function.
+        The `rec` keyword exposes the function identifier for use inside the function...
         And that's literally all that it does - it has no other purpose whatsoever.
     *)
 

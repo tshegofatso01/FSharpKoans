@@ -5,7 +5,7 @@ open NUnit.Framework
     A discriminated union is a disjoint set of named cases, where each case
     may have some linked/associated data.  If a discriminated union case has
     associated data, the case name is a function which takes the associated
-    data as input and gives a value of the discriminated union type as output.
+    data as input and gives a value of the discriminated union type as output...
 *)
 
 
